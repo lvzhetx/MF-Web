@@ -1,0 +1,16 @@
+graphviz==0.8.2
+h5py==2.7.1
+jieba==0.39
+Keras==2.1.5
+lxml==3.8.0
+matplotlib==2.0.2
+numpy==1.14.2
+opencv-python==3.4.0.12
+pandas==0.22.0
+pydot-ng==1.0.0
+scikit-image==0.13.1
+scikit-learn==0.19.0
+tensorboard==1.6.0
+tensorflow==1.6.0
+tensorflow-tensorboard==1.5.1
+zhon==1.1.5
