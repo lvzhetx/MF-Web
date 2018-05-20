@@ -24,7 +24,7 @@ tensorboard=1.6.0
 tensorflow=1.6.0
 tensorflow-tensorboard=1.5.1
 zhon=1.1.5
-
+flask=1.0.2
 ---
 
 ### 如何使用
